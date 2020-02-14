@@ -1,0 +1,2 @@
+# alaricming.github.io
+blog
